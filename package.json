@@ -1,6 +1,6 @@
 {
   "name": "@one.com/history",
-  "version": "4.7.2",
+  "version": "4.7.3",
   "description": "Manage session history with JavaScript",
   "repository": {
     "type": "git",
